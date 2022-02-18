@@ -1,0 +1,48 @@
+
+/*Propiedades especificas al header*/
+
+.bc-header {
+    background-color: hsl(315,100%,89%);
+}
+
+.img-logo {
+    transition: all 1s;
+}
+
+.img-logo:hover {
+    transform: rotate(1.0turn);
+}
+
+/*Propiedades especificas al Main*/
+
+.img-inicio {
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    background-color: hsl(315,100%,93%);
+}
+
+.texto-inicio {
+    background-color: hsl(270, 100%, 89%);
+}
+
+/*Fin propiedades especificas al main*/
+
+/*Propiedades especificas al Footer*/
+
+.img-instagram {
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    background-color:hsl(315,100%,89%);
+}
+
+.dv-instagram {
+    width: 5%;
+    margin-left: 1%;
+}
+
