@@ -1,0 +1,12 @@
+/*Propiedades especificas al header*/
+
+.bc-header {
+    background-color: hsl(315,100%,89%);
+    .img-logo {
+        transition: all 1s;
+        &:hover {
+            transform: rotate(1.0turn);
+        }
+    }
+}
+

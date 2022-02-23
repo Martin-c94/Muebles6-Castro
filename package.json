@@ -1,0 +1,19 @@
+{
+  "name": "muebles8-castro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-c94/Muebles6-Castro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martin-c94/Muebles6-Castro/issues"
+  },
+  "homepage": "https://github.com/Martin-c94/Muebles6-Castro#readme"
+}

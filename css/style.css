@@ -1,0 +1,50 @@
+/*Propiedades especificas al header*/
+.bc-header {
+  background-color: #ffc7f1;
+}
+.bc-header .img-logo {
+  transition: all 1s;
+}
+.bc-header .img-logo:hover {
+  transform: rotate(1turn);
+}
+
+/*Propiedades especificas al Footer*/
+footer {
+  background-color: #ffc7f1;
+}
+footer .dv-instagram {
+  width: 5%;
+  margin-left: 1%;
+}
+footer .dv-instagram .img-instagram {
+  width: 100%;
+  height: 100%;
+}
+
+/*Propiedades especificas a Home*/
+main {
+  background-color: #ffdbf6;
+}
+main section div .col-3 {
+  background-color: #e3c7ff;
+}
+main section div .img-inicio {
+  width: 100%;
+  height: 100%;
+}
+
+/*Propiedades especificas a Stores*/
+.iframe-locales {
+  width: 100%;
+}
+
+.h1-stores {
+  font-size: 150%;
+}
+
+.h3-stores {
+  font-size: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
