@@ -13,7 +13,7 @@
     transform: rotate(1.0turn);
 }
 
-/*Propiedades especificas al Main*/
+/*Propiedades especificas a Home*/
 
 .img-inicio {
     width: 100%;
@@ -24,11 +24,28 @@ main {
     background-color: hsl(315,100%,93%);
 }
 
-.texto-inicio {
+.col-3 {
     background-color: hsl(270, 100%, 89%);
 }
 
-/*Fin propiedades especificas al main*/
+/*Fin propiedades especificas a Home*/
+
+/*Propiedades especificas a Stores*/
+
+.iframe-locales {
+    width: 100%;
+}
+
+.h1-stores {
+    font-size: 150%;
+}
+
+.h3-stores {
+    font-size: 100%;
+}
+
+
+/*Fin Propiedades especificas a Stores*/
 
 /*Propiedades especificas al Footer*/
 
