@@ -1,5 +1,7 @@
 /*Propiedades especificas a Home*/
 
+@import "../base/fonts.scss";
+
 main {
     background-color: hsl(315,100%,93%);
     section {
@@ -17,4 +19,6 @@ main {
     }
 }
 
-
+.h1-index {
+    @extend %fontfont;
+}

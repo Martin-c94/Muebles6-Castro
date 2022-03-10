@@ -1,4 +1,6 @@
 /*Propiedades especificas al header*/
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Luxurious+Roman&family=Oswald:wght@500&family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Luxurious+Roman&family=Oswald:wght@500&family=Raleway&display=swap");
 .bc-header {
   background-color: #ffc7f1;
 }
@@ -13,16 +15,12 @@
 footer {
   background-color: #ffc7f1;
 }
-footer .dv-instagram {
-  width: 5%;
-  margin-left: 1%;
-}
-footer .dv-instagram .img-instagram {
-  width: 100%;
-  height: 100%;
-}
 
 /*Propiedades especificas a Home*/
+.h3-stores, .h1-stores, .h1-index {
+  font-family: "Abril Fatface, cursive";
+}
+
 main {
   background-color: #ffdbf6;
 }
@@ -35,6 +33,10 @@ main section div .img-inicio {
 }
 
 /*Propiedades especificas a Stores*/
+.h3-stores, .h1-stores, .h1-index {
+  font-family: "Abril Fatface, cursive";
+}
+
 .iframe-locales {
   width: 100%;
 }

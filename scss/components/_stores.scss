@@ -1,13 +1,16 @@
 /*Propiedades especificas a Stores*/
 
-.iframe-locales {
+@import "../base/fonts.scss";
+
+.iframe-locales{
     width: 100%;
 }
-
 .h1-stores {
     font-size: 150%;
+    @extend %fontfont;
 }
 
 .h3-stores {
     font-size: 100%;
+    @extend %fontfont;
 }
