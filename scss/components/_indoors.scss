@@ -1,0 +1,11 @@
+@import "../base/fonts.scss";
+
+.h1-indoors {
+    font-size: 150%;
+    @extend %fontfont;
+}
+
+.h3-indoors {
+    font-size: 100%;
+    @extend %fontfont;
+}
